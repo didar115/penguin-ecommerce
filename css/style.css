@@ -1,0 +1,59 @@
+.bg-color{
+    background-color: #FFFBF0;
+
+}
+
+
+.penguin-text-color{
+    color: #FABE4C;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+.winter-text-color{
+    color:#363958 ;
+       font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+
+}
+
+.btn-custom{
+    width: 170px;
+    height: 60px;
+    border-radius: 12px;
+    background-color: #A4BC46;
+    color: white;
+    border: 0;
+}
+.jacket-text-color{
+    color: #363958;
+    font-size: 48px;
+     font-family: 'Bebas Neue', cursive;
+
+}
+.custom-card{
+    width: auto;
+    height: 550px;
+    background-color: white;
+    border-radius: 15px;
+   
+}
+.bg-card{
+    background-color: #F1F1F1;
+    width: auto;
+    height: 327px;
+    border-radius: 15px;
+     margin: 10px;
+  
+
+
+}
+.bg-card img{
+    height: 290px;
+    width: auto;
+}
+
+.product-text{
+font-family: 'Roboto', sans-serif;
+color: #363958;
+font-size: 24px;
+}
